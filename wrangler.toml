@@ -1,4 +1,4 @@
-name = "om-api-request-constructor"
+name = "test-om-api"
 compatibility_date = "2026-05-21"
 
 # This allows `npx wrangler deploy` to deploy the static HTML as a Worker with assets.
